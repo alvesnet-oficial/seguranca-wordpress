@@ -77,6 +77,38 @@ Envio de mensagem para seu site ou blogs
 - All in One Firewall
 - Ithemes Security
 
+# Sugestão de Firewall
+
+- CloudFlare
+
+# Fazer Backup
+
+- Wordpress (Regular)
+- Banco de Dados (Por hora)
+
+Segstão de Ferramenta -> UpdrafPlus
+
+Gravar no seu Google Drive
+
+# Permissão Correta
+
+- Sucuri
+- Ithemes Security
+
+# Não usar admin como usuário
+
+Evitar que scanner de força bruta descobrir 
+
+# Bloquear Paises que voce não faz negocios
+
+Evitar ser descobertos por scanner...
+
+# Dicas
+
+> O que fazer se seu sites foi atacado?
+Tenha sempre um Backup atualizado!
+
+
 
 
 
